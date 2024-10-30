@@ -1,33 +1,33 @@
-# Математическая статистика
+# Mathematical statistics
 
-В данном репозитории Вы найдёте лабораторные работы по математической статистике. Также в отчёте по каждой работе приведён необходимый теоритический материал.
+In this repository you will find laboratory work on mathematical statistics. Also, the report for each work provides the necessary theoretical material
 
-Вот небольшая сводка по тому, что здесь вообще происходит:
+Here's a quick summary of what's going on here:
 
-### [Лабораторная работа №1](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%201%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №1](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%201%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Задания, связанные с проверкой различных предельных теорем.
+Tasks related to testing various limit theorems.
 
-### [Лабораторная работа №2](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%202%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №2](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%202%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Выборки и различные способы их представления.
+Samples and different ways of their presenting.
 
-### [Лабораторная работа №3](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%203%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №3](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%203%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Методы построения оценок параметров распределений.
+Methods for constructing estimates of distribution parameters.
 
-### [Лабораторная работа №4](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%204%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №4](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%204%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Доверительные границы и интервалы.
+Confidence limits and intervals.
 
-### [Лабораторная работа №5](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%205%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №5](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%205%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Критерий хи-квадрат проверки гипотез.
+Chi-square test for testing hypotheses.
 
-### [Лабораторная работа №6](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%206%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №6](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%206%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Различие двух простых гипотез.
+Distinguishing between two simple hypotheses.
 
-### [Лабораторная работа №8](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%208%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [LAB №8](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%208%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
 
-Регрессионный анализ.
+Regression analysis.
