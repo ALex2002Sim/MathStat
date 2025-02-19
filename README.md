@@ -5,6 +5,7 @@ In this repository you will find laboratory work on mathematical statistics. Als
 Here's a quick summary of what's going on here:
 
 ### [LAB №1](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%201%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [lab1.ipynb](https://github.com/ALex2002Sim/MathStat/blob/main/lab1.ipynb)
 
 Tasks related to testing various limit theorems.
 
@@ -13,10 +14,12 @@ Tasks related to testing various limit theorems.
 Samples and different ways of their presenting.
 
 ### [LAB №3](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%203%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [lab3.ipynb](https://github.com/ALex2002Sim/MathStat/blob/main/lab3.ipynb)
 
 Methods for constructing estimates of distribution parameters.
 
 ### [LAB №4](https://github.com/ALex2002Sim/MathStat/blob/main/%D0%A1%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9B%D0%A0%204%20(%D0%9C%D0%B0%D1%82%D0%A1%D1%82%D0%B0%D1%82).pdf)
+### [lab4.ipynb](https://github.com/ALex2002Sim/MathStat/blob/main/lab4.ipynb)
 
 Confidence limits and intervals.
 
